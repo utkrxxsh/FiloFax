@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="gray">#FFE7D1</color>
+    <color name="fossil">#FDDFDF</color>
+    <color name="mink">#FCF7DE</color>
+    <color name="pearlDriver">#DEFDE0</color>
+    <color name="abalone">#DEF3FD</color>
+    <color name="harborGray">#F0DEFD</color>
+    <color name="smoke">#E2F0C8</color>
+    <color name="thunder">#FCB6D0</color>
+    <color name="pewter">#EAE3D3</color>
+    <color name="steel">#CBBF97</color>
+    <color name="stone">#B0DFE5</color>
+    <color name="rhino">#D0F0C0</color>
+    <color name="trout">#FFAD60</color>
+    <color name="seal">#FFE0BD</color>
+    <color name="lava">#E6BC98</color>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949582949144",
+    "firebase_url": "https://filo-fax.firebaseio.com",
+    "project_id": "filo-fax",
+    "storage_bucket": "filo-fax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949582949144:android:539c59091da3236417cc6d",
+        "android_client_info": {
+          "package_name": "com.example.filofax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949582949144-n1qiuu6e6bf9und78ljk5pbfh6a64gid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filofax",
+            "certificate_hash": "6a83c2b393673b33d049bd534fec19d0dabaedf0"
+          }
+        },
+        {
+          "client_id": "949582949144-mtir30tasfvh1e3asbd166ik4tstqfbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyFWpEQzGaB4qVCNl65wiDW9dwDGmLnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949582949144-mtir30tasfvh1e3asbd166ik4tstqfbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
